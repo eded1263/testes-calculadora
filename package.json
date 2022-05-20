@@ -1,0 +1,13 @@
+{
+	"name": "if-qs",
+	"version": "1.0.0",
+	"main": "src/index.js",
+	"license": "MIT",
+	"scripts": {
+		"start": "node src/index.js",
+		"test": "jest"
+	},
+	"dependencies": {
+		"jest": "^28.0.3"
+	}
+}
